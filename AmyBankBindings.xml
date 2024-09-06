@@ -1,0 +1,7 @@
+<KeyBinding>
+    <Layer name="Amy's Bank Everything">
+        <Category name="Move to Bank">
+            <Action name="AMYBANKEVERYTHING_MOVEITEMS" />
+        </Category>
+    </Layer>
+</KeyBinding>

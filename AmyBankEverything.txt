@@ -1,0 +1,8 @@
+## Title: Amy's Bank Everything
+## Description: A simple addon to bank everything in your selected inventory tab using a keybinding
+## Version: 1.0
+## Author: foxy93
+## APIVersion: 101043
+
+AmyBankEverything.lua
+AmyBankBindings.xml
